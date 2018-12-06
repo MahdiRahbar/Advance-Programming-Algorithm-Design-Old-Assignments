@@ -1,0 +1,1 @@
+ This Project is an structured Project for fundemental Programming Course which I didn't need to create any class. 
